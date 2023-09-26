@@ -1,1 +1,1 @@
-Second readme inside the 0x03-git directory
+Updated readme inside the 0x03-git directory
